@@ -49,6 +49,7 @@ Atualmente, estou aprofundando meus estudos em **PHP**, **C** e **Python**, com 
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 - **Áreas de Estudo**:
+- 
   ![Algoritmos](https://img.shields.io/badge/Algorithms-FFD700?style=for-the-badge&logo=appveyor&logoColor=black)
   ![Estruturas de Dados](https://img.shields.io/badge/Data_Structures-228B22?style=for-the-badge&logo=appveyor&logoColor=black)
   ![Inteligência Artificial](https://img.shields.io/badge/AI-FF5722?style=for-the-badge&logo=appveyor&logoColor=black)
