@@ -23,7 +23,7 @@ Atualmente, estou aprofundando meus estudos em **PHP**, **C** e **Python**, com 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-almeidalopes&show_icons=true&theme=swift)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-almeidalopes&layout=donut&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-almeidalopes&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
