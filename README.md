@@ -4,7 +4,7 @@
 
 Sou estudante de **Ciências da Computação** na **UNICID (Universidade Cidade de São Paulo)**, localizada em **São Paulo, SP**. Tenho grande interesse por **tecnologia** e **inovação**, áreas que me motivam a expandir continuamente meus conhecimentos. Ao longo da minha jornada acadêmica, venho aprimorando minhas habilidades em **algoritmos**, **estruturas de dados** e **desenvolvimento de software**.
 
-Atualmente, estou aprofundando meus estudos em **PHP**, **C** e **Python**, com foco em **Inteligência Artificial**. A aplicação inicial de IA está sendo explorada de maneira prática para me auxiliar em meu trabalho como jovem aprendiz, onde busco integrar e otimizar soluções tecnológicas no dia a dia.
+Atualmente, estou aprofundando meus estudos em **PHP** e **Python**, com foco em **Inteligência Artificial**. A aplicação inicial de IA está sendo explorada de maneira prática para me auxiliar em meu trabalho como jovem aprendiz, onde busco integrar e otimizar soluções tecnológicas no dia a dia.
 
 - 📍 **Localização**: São Paulo, SP, Brasil
 - 🎓 **Curso**: Ciências da Computação - **UNICID (Universidade Cidade de São Paulo)**
@@ -15,7 +15,7 @@ Atualmente, estou aprofundando meus estudos em **PHP**, **C** e **Python**, com 
   - **Programação Orientada a Objetos (POO)**: Estudo de princípios de design como herança, polimorfismo e encapsulamento.
   - **Inteligência Artificial (IA)**: Início dos estudos em **aprendizado de máquina** e **redes neurais**.
 
-- 🌱 **Atualmente Aprendendo**: PHP, C, Python, e aprofundamento em **Estruturas de Dados**, **Inteligência Artificial** e **Desenvolvimento de Aplicativos Móveis**.
+- 🌱 **Atualmente Aprendendo**: PHP, Python, e aprofundamento em **Estruturas de Dados**, **Inteligência Artificial** e **Desenvolvimento de Aplicativos Móveis**.
 
 ---
 
