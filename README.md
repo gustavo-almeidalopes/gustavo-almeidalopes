@@ -43,21 +43,12 @@ Atualmente, estou aprofundando meus estudos em **PHP**, **C** e **Python**, com 
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 - **Ferramentas**:
   
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-- **Áreas de Estudo**:
-- 
-  ![Algoritmos](https://img.shields.io/badge/Algorithms-FFD700?style=for-the-badge&logo=appveyor&logoColor=black)
-  ![Estruturas de Dados](https://img.shields.io/badge/Data_Structures-228B22?style=for-the-badge&logo=appveyor&logoColor=black)
-  ![Inteligência Artificial](https://img.shields.io/badge/AI-FF5722?style=for-the-badge&logo=appveyor&logoColor=black)
-  ![Banco de Dados](https://img.shields.io/badge/Database-0066CC?style=for-the-badge&logo=appveyor&logoColor=black)
-  ![Desenvolvimento Web](https://img.shields.io/badge/Web_Development-FF4500?style=for-the-badge&logo=appveyor&logoColor=black)
-
+  
 ---
 
 ## 📢 Contribuições
