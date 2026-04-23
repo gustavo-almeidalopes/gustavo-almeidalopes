@@ -1,12 +1,19 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0071e3&height=130&section=header&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f5f5f7,100:0071e3&height=130&section=header&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0071e3&height=130&section=header&animation=fadeIn" width="100%" />
-</picture>
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║  BANNER DO PERFIL                                           ║
+     ║  Substitua o src abaixo pela sua imagem.                    ║
+     ║  Tamanho recomendado: 1280 × 400 px                         ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
 
-<br>
+<img
+  src="assets/banner.png"
+  width="100%"
+  style="border-radius:12px;"
+  alt="Profile Banner"
+/>
+
+<br><br>
 
 <h1>Gustavo Roberto de Almeida Lopes</h1>
 
@@ -65,6 +72,9 @@ The goal is always the same: extract signal from noise, model outcomes before th
 
 **Software Development**
 
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=092E20&labelColor=0d1117&color=0d1117)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
@@ -87,9 +97,23 @@ The goal is always the same: extract signal from noise, model outcomes before th
 
 ## Projects
 
-<table width="100%" border="0" cellspacing="0" cellpadding="12">
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║  CAPAS DOS PROJETOS                                         ║
+     ║  Cada projeto tem um src de imagem para substituir.         ║
+     ║  Tamanho recomendado: 600 × 300 px (proporção 2:1)         ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="14">
+
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
+
+<!-- Capa do projeto 1 — substitua o src abaixo -->
+<a href="https://github.com/gustavo-almeidalopes/climate-monitoring-of-sao-paulo">
+  <img src="assets/covers/climate-monitoring.png" width="100%" style="border-radius:8px; display:block;" alt="Climate Monitoring Cover" />
+</a>
+
+<br>
 
 **[Climate Monitoring — São Paulo](https://github.com/gustavo-almeidalopes/climate-monitoring-of-sao-paulo)**
 
@@ -98,7 +122,14 @@ Environmental data tracking and visualization for São Paulo. Clean pipelines an
 `Python` &nbsp; `Data Visualization` &nbsp; `ETL`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
+
+<!-- Capa do projeto 2 — substitua o src abaixo -->
+<a href="https://github.com/gustavo-almeidalopes/fleet-management-and-operations">
+  <img src="assets/covers/fleet-management.png" width="100%" style="border-radius:8px; display:block;" alt="Fleet Management Cover" />
+</a>
+
+<br>
 
 **[Fleet Management & Operations](https://github.com/gustavo-almeidalopes/fleet-management-and-operations)**
 
@@ -108,8 +139,16 @@ Operational dashboard for vehicle monitoring, route tracking and delay categoriz
 
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
+
+<!-- Capa do projeto 3 — substitua o src abaixo -->
+<a href="https://github.com/gustavo-almeidalopes/emotional-detect">
+  <img src="assets/covers/emotional-detect.png" width="100%" style="border-radius:8px; display:block;" alt="Emotional Detect Cover" />
+</a>
+
+<br>
 
 **[Emotional Detect](https://github.com/gustavo-almeidalopes/emotional-detect)**
 
@@ -118,16 +157,24 @@ Sentiment and emotion detection applied to natural language. NLP pipelines with 
 `NLP` &nbsp; `Machine Learning` &nbsp; `Visualization`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
+
+<!-- Capa do projeto 4 — substitua o src abaixo -->
+<a href="https://github.com/gustavo-almeidalopes/dentibot">
+  <img src="assets/covers/dentibot.png" width="100%" style="border-radius:8px; display:block;" alt="DentiBot Cover" />
+</a>
+
+<br>
 
 **[DentiBot](https://github.com/gustavo-almeidalopes/dentibot)**
 
 Conversational assistant for dental clinics — appointment handling, patient communication, and workflow automation.
 
-`Chatbot` &nbsp; `Automation` &nbsp; `UX`
+`Flask API` &nbsp; `Chatbot` &nbsp; `Automation`
 
 </td>
 </tr>
+
 </table>
 
 <br>
