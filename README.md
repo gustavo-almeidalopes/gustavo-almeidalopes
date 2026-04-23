@@ -8,13 +8,14 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=38&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=720&lines=Gustavo+Roberto+de+Almeida+Lopes" alt="Name" />
+<h1>Gustavo Roberto de Almeida Lopes</h1>
+
+<p>
+  <strong>Data Analytics &nbsp;·&nbsp; Business Intelligence &nbsp;·&nbsp; Software Engineering</strong><br>
+  <sub>Turning raw data into scalable business leverage &nbsp;—&nbsp; São Paulo, Brazil</sub>
+</p>
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Text&weight=300&size=17&duration=2800&pause=1200&color=86868B&center=true&vCenter=true&width=720&lines=Data+Analytics+%C2%B7+Business+Intelligence+%C2%B7+Software+Engineering;Turning+raw+data+into+scalable+business+leverage.;São+Paulo%2C+Brazil." alt="Subtitle" />
-
-<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavorobertodealmeidalopes/)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavo-almeidalopes)
