@@ -1,183 +1,134 @@
-<div align="right">
-<a href="README-pt.md"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Read_in_Portuguese-1d1d1f%3Fstyle%3Dfor-the-badge" alt="Versão em Português"></a>
-</div>
+<div align="center">
 
-<p align="center">
-<img src="assets/banner.gif" width="100%" style="max-width: 900px; border-radius: 20px; box-shadow: 0 20px 40px rgba(0,0,0,0.1);" alt="Banner">
+<br>
+
+# Gustavo Roberto de Almeida Lopes
+
+<p>
+  <strong>Data Analytics · Business Intelligence · Software Engineering</strong><br>
+  <sub>Turning raw data into scalable business leverage — São Paulo, Brazil</sub>
 </p>
 
-<div align="center">
-<h1>Gustavo Roberto de Almeida Lopes</h1>
-<p style="color: #86868b; font-size: 1.2em; letter-spacing: 0.5px;">
-Data Analytics  •  Business Intelligence  •  Software Engineering
-</p>
-<p style="font-weight: 300;"><i>Turning raw data into scalable business leverage.</i></p>
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavorobertodealmeidalopes/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gustavo-almeidalopes)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gustavorobertodealmeidalopes@gmail.com)
+
 </div>
 
+---
 
+## About
 
+I design systems where data serves decisions, not just dashboards. My work combines rigorous software engineering with analytical depth to build reliable data pipelines and decision-support architectures that scale.
 
+What I focus on: extracting signal from noise, modeling outcomes before they happen, and building infrastructure that makes good decisions repeatable.
 
-<div align="center">
-<h3>Overview</h3>
-<p>I design systems where data serves decisions, not just dashboards. My approach combines rigorous software engineering with analytical depth to build reliable pipelines and decision-support architectures that scale.</p>
-</div>
+---
 
+## Stack
 
+**Analytics & Data Science**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
+**Visualization & BI**
 
-<div align="center">
-<h3>Specializations</h3>
-</div>
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+**Software Development**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Tooling**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+---
+
+## Projects
+
+<table>
 <tr>
-<td width="33%" align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Data_Engineering-1d1d1f%3Fstyle%3Dfor-the-badge%26logo%3Dapache-airflow%26logoColor%3Dwhite" alt="Data Engineering" />
+<td width="50%">
 
+**[Climate Monitoring — São Paulo](https://github.com/gustavo-almeidalopes/climate-monitoring-of-sao-paulo)**
+Environmental data tracking and visualization for São Paulo city. Structured around clean data pipelines and interactive reporting.
 
-
-
-
-
-<small style="color: #555;">Pipelines & ETL</small>
 </td>
-<td width="33%" align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Analytics_Architecture-1d1d1f%3Fstyle%3Dfor-the-badge%26logo%3Ddatabricks%26logoColor%3Dwhite" alt="Analytics Architecture" />
+<td width="50%">
 
+**[Fleet Management & Operations](https://github.com/gustavo-almeidalopes/fleet-management-and-operations)**
+Operational dashboard for vehicle monitoring, route tracking, and delay categorization. Built for real-world logistics contexts.
 
-
-
-
-
-<small style="color: #555;">Warehouse & Modeling</small>
 </td>
-<td width="33%" align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Product_Intelligence-1d1d1f%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-analytics%26logoColor%3Dwhite" alt="Product Intelligence" />
+</tr>
+<tr>
+<td width="50%">
 
+**[Emotional Detect](https://github.com/gustavo-almeidalopes/emotional-detect)**
+Sentiment and emotion detection system applied to natural language. Combines NLP with visualization for human-readable outputs.
 
+</td>
+<td width="50%">
 
+**[DentiBot](https://github.com/gustavo-almeidalopes/dentibot)**
+Conversational assistant for dental clinics. Focused on appointment handling and patient communication workflows.
 
-
-
-<small style="color: #555;">Growth & KPIs</small>
 </td>
 </tr>
 </table>
 
+---
 
-
-
+## Performance
 
 <div align="center">
-<h3>Featured Projects</h3>
 
-
-
-
-
-<!-- Project 01 -->
-<a href="https://www.google.com/search?q=https://github.com/gustavo-almeidalopes/NOME_DO_REPO_1">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dgustavo-almeidalopes%26repo%3DNOME_DO_REPO_1%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D1d1d1f%26icon_color%3D0071e3%26text_color%3D555%26show_owner%3Dfalse" width="48%" alt="Project 1" />
-</a>
-<!-- Project 02 -->
-<a href="https://www.google.com/search?q=https://github.com/gustavo-almeidalopes/NOME_DO_REPO_2">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dgustavo-almeidalopes%26repo%3DNOME_DO_REPO_2%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D1d1d1f%26icon_color%3D0071e3%26text_color%3D555%26show_owner%3Dfalse" width="48%" alt="Project 2" />
-</a>
-
-
-
-
-
-<p>
-<a href="URL_DEPLOY_1">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Live_System-0071E3%3Fstyle%3Dfor-the-badge%26logo%3Dsafari%26logoColor%3Dwhite" alt="Deploy 1" />
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gustavo-almeidalopes&show_icons=true&theme=default&hide_border=true&title_color=1d1d1f&icon_color=0071e3&text_color=3d3d3f&bg_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<a href="URL_DEPLOY_2">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Live_System-0071E3%3Fstyle%3Dfor-the-badge%26logo%3Dsafari%26logoColor%3Dwhite" alt="Deploy 2" />
-</a>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-almeidalopes&layout=compact&langs_count=8&theme=default&hide_border=true&title_color=1d1d1f&text_color=3d3d3f&bg_color=ffffff" alt="Top Languages" />
 
+<br><br>
 
+<img src="https://streak-stats.demolab.com?user=gustavo-almeidalopes&theme=default&hide_border=true&ring=0071e3&fire=0071e3&currStreakNum=1d1d1f&sideLabels=true&dates=86868b&sideNums=1d1d1f&currStreakLabel=86868b" width="480" alt="GitHub Streak" />
 
+<br><br>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavo-almeidalopes&theme=minimal&hide_border=true&color=0071E3&line=0071E3&point=1d1d1f&area=true&area_color=e8f4fd" width="100%" style="max-width: 860px;" alt="Activity Graph" />
 
-<!-- Project 03 -->
-<a href="https://www.google.com/search?q=https://github.com/gustavo-almeidalopes/NOME_DO_REPO_3">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dgustavo-almeidalopes%26repo%3DNOME_DO_REPO_3%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D1d1d1f%26icon_color%3D0071e3%26text_color%3D555%26show_owner%3Dfalse" width="48%" alt="Project 3" />
-</a>
-<!-- Project 04 -->
-<a href="https://www.google.com/search?q=https://github.com/gustavo-almeidalopes/NOME_DO_REPO_4">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dgustavo-almeidalopes%26repo%3DNOME_DO_REPO_4%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D1d1d1f%26icon_color%3D0071e3%26text_color%3D555%26show_owner%3Dfalse" width="48%" alt="Project 4" />
-</a>
 </div>
 
+---
 
+## Principles
 
+**Simplicity scales.** Complexity is a debt that must be justified.
 
+**Decisions over dashboards.** Data is useless if it does not prompt action.
 
-<div align="center">
-<h3>Engineering Analytics</h3>
+**Automation is leverage.** If it is repetitive, it is a candidate for a script.
 
-
-
-
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dgustavo-almeidalopes%26show_icons%3Dtrue%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D1d1d1f%26icon_color%3D0071e3%26text_color%3D555%26ring_color%3D0071e3" height="165" alt="Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dgustavo-almeidalopes%26layout%3Dcompact%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D1d1d1f%26text_color%3D555" height="165" alt="Languages" />
-</div>
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dgustavo-almeidalopes%26theme%3Dtransparent%26hide_border%3Dtrue%26color%3D0071E3%26line%3D0071E3%26point%3D1d1d1f" width="100%" style="max-width: 850px;" alt="Activity Graph" />
-</p>
-
-
-
-
+---
 
 <div align="center">
-<h3>Principles</h3>
-
-
-
-
-
-<p><b>Simplicity scales.</b> Complexity is a debt that must be justified.</p>
-<p><b>Decisions over Dashboards.</b> Data is useless if it doesn't prompt action.</p>
-<p><b>Automation is leverage.</b> If it's repetitive, it's a candidate for a script.</p>
-</div>
-
-
-
-
-
-<div align="center">
-<h3>Connect</h3>
-
-
-
-
-
-<p>
-<a href="https://www.linkedin.com/in/gustavorobertodealmeidalopes/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-1d1d1f%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:gustavorobertodealmeidalopes@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-1d1d1f%3Fstyle%3Dfor-the-badge%26logo%3Dapple%26logoColor%3Dwhite" alt="Email" />
-</a>
-</p>
-<p>
-<img src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3Dgustavo-almeidalopes%26theme%3Dtransparent%26hide_border%3Dtrue%26ring%3D0071e3%26fire%3D0071e3%26currStreakNum%3D1d1d1f%26sideLabels%3Dfalse" width="400" alt="GitHub Streak" />
-</p>
-
-
-
-
-
-<small style="color: #86868b; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
-<i>“Good data work is invisible. It just makes decisions obvious.”</i>
-</small>
+<sub>
+<i>"Good data work is invisible. It just makes decisions obvious."</i>
+</sub>
 </div>
